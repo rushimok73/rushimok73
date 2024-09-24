@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 Hi there 👋
 😄 Pronouns: He/Him/His
+
 🌱 I'm an AWS certified Software Engineer specializing in building backend systems with Java and Python
+
 👯 I’m looking to collaborate on software engineering projects 
+
 ⚡ Fun fact: Did you know that no English word has three consecutive repeated letters?
+
 📫 How to reach me: rushimok73@gmail.com
